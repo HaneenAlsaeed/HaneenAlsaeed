@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=200&section=header&text=Haneen%20Alsaeed&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descSize=20&descAlignY=75&descAlign=50" alt="Haneen Name" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=34341A&height=200&section=header&text=Haneen%20Alsaeed&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descSize=20&descAlignY=75&descAlign=50" alt="Haneen Name" />
 
 <br/>
 

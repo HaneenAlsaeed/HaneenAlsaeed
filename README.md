@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HaneenAlsaeed/HaneenAlsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F11&height=200&section=header&text=Haneen%20Alsaeed&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descSize=20&descAlignY=75&descAlign=50" alt="Haneen Name" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### About Me
+As a Software Engineering student, I focus on the intersection of systematic development and creative problem-solving. I am driven by the challenge of building high-performance systems that are both scalable and user-centric.
+
+* Intelligence-Driven Systems: Deeply interested in Artificial Intelligence, focusing on autonomous and responsive applications.
+* Analytical Engineering: Leveraging Data Science to transform raw information into actionable system insights.
+* Full-Stack Mentality: Navigating both client-side and server-side challenges for cohesive digital experiences.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3022&height=40&section=footer" width="100%" />
+
+### Technical Arsenal
+
+Core Programming:
+![Java](https://img.shields.io/badge/Java-2D4C36?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A5A40?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4A6741?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-588157?style=flat-square&logo=mysql&logoColor=white)
+
+Environment & Workflow:
+Git • VS Code • NetBeans • Visual Studio
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=40&section=footer" width="100%" />
+
+### Contact Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/haneen-alsaeed-734198358/">
+<img src="https://img.shields.io/badge/LinkedIn-0A1F11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:hz.alsaeed@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A1F11?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=588157&height=40&section=footer" width="100%" />
+
+</div>

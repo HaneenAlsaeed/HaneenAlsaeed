@@ -18,10 +18,10 @@ As a Software Engineering student, I focus on the intersection of systematic dev
 ### Technical Arsenal
 
 Core Programming:
-![Java](https://img.shields.io/badge/Java-2D4C36?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3A5A40?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4A6741?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-588157?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-34341A?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-47442D?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5F5A3A?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-777155?style=flat-square&logo=mysql&logoColor=white)
 
 Environment & Workflow:
 Git • VS Code • NetBeans • Visual Studio
